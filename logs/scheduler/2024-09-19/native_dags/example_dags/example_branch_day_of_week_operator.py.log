@@ -1,0 +1,7 @@
+[2024-09-19T10:22:18.261-0500] {processor.py:186} INFO - Started process (PID=12911) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-09-19T10:22:18.262-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2024-09-19T10:22:18.263-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:18.263-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-09-19T10:22:18.267-0500] {processor.py:925} INFO - DAG(s) 'example_weekday_branch_operator' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-09-19T10:22:18.310-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:18.310-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:22:18.318-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:18.318-0500] {dag.py:4156} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-09-18 00:00:00+00:00, run_after=2024-09-19 00:00:00+00:00
+[2024-09-19T10:22:18.325-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.065 seconds

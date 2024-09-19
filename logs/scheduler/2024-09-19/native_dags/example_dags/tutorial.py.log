@@ -1,0 +1,21 @@
+[2024-09-19T10:21:00.455-0500] {processor.py:186} INFO - Started process (PID=12346) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-09-19T10:21:00.457-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-09-19T10:21:00.457-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:00.457-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-09-19T10:21:00.461-0500] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-09-19T10:21:00.508-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:00.508-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:21:00.521-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:00.521-0500] {dag.py:4156} INFO - Setting next_dagrun for tutorial to 2024-09-18 00:00:00+00:00, run_after=2024-09-19 00:00:00+00:00
+[2024-09-19T10:21:00.536-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.082 seconds
+[2024-09-19T10:22:44.410-0500] {processor.py:186} INFO - Started process (PID=13084) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-09-19T10:22:44.412-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-09-19T10:22:44.412-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:44.412-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-09-19T10:22:44.416-0500] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-09-19T10:22:44.458-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:44.458-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:22:44.468-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:44.467-0500] {dag.py:4156} INFO - Setting next_dagrun for tutorial to 2024-09-18 00:00:00+00:00, run_after=2024-09-19 00:00:00+00:00
+[2024-09-19T10:22:44.475-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
+[2024-09-19T10:23:55.889-0500] {processor.py:186} INFO - Started process (PID=13435) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-09-19T10:23:55.891-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-09-19T10:23:55.891-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:55.891-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-09-19T10:23:55.894-0500] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-09-19T10:23:55.936-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:55.936-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:23:55.948-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:55.948-0500] {dag.py:4156} INFO - Setting next_dagrun for tutorial to 2024-09-18 00:00:00+00:00, run_after=2024-09-19 00:00:00+00:00
+[2024-09-19T10:23:55.955-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.067 seconds

@@ -1,0 +1,21 @@
+[2024-09-19T10:21:20.091-0500] {processor.py:186} INFO - Started process (PID=12422) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-19T10:21:20.092-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-19T10:21:20.092-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:20.092-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-19T10:21:20.096-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-19T10:21:20.143-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:20.143-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:21:20.154-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:20.154-0500] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-18 00:00:00+00:00, run_after=2024-09-19 00:00:00+00:00
+[2024-09-19T10:21:20.161-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-09-19T10:23:03.329-0500] {processor.py:186} INFO - Started process (PID=13142) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-19T10:23:03.331-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-19T10:23:03.332-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:03.332-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-19T10:23:03.335-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-19T10:23:03.381-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:03.380-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:23:03.390-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:03.390-0500] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-18 00:00:00+00:00, run_after=2024-09-19 00:00:00+00:00
+[2024-09-19T10:23:03.397-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.070 seconds
+[2024-09-19T10:24:15.706-0500] {processor.py:186} INFO - Started process (PID=13493) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-19T10:24:15.708-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-19T10:24:15.709-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:24:15.709-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-19T10:24:15.712-0500] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-19T10:24:15.754-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:24:15.754-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:24:15.764-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:24:15.763-0500] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-18 00:00:00+00:00, run_after=2024-09-19 00:00:00+00:00
+[2024-09-19T10:24:15.770-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.065 seconds

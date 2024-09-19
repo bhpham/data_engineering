@@ -1,0 +1,7 @@
+[2024-09-19T10:22:25.732-0500] {processor.py:186} INFO - Started process (PID=12981) to work on /Users/binhpham/airflow/dags/example_dag.py
+[2024-09-19T10:22:25.733-0500] {processor.py:914} INFO - Processing file /Users/binhpham/airflow/dags/example_dag.py for tasks to queue
+[2024-09-19T10:22:25.733-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:25.733-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/airflow/dags/example_dag.py
+[2024-09-19T10:22:25.744-0500] {processor.py:925} INFO - DAG(s) 'my_dag' retrieved from /Users/binhpham/airflow/dags/example_dag.py
+[2024-09-19T10:22:25.785-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:25.785-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:22:25.792-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:25.792-0500] {dag.py:4156} INFO - Setting next_dagrun for my_dag to 2023-01-01 00:00:00+00:00, run_after=2023-01-02 00:00:00+00:00
+[2024-09-19T10:22:25.799-0500] {processor.py:208} INFO - Processing /Users/binhpham/airflow/dags/example_dag.py took 0.068 seconds

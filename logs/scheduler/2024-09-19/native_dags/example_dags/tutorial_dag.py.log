@@ -1,0 +1,21 @@
+[2024-09-19T10:20:58.542-0500] {processor.py:186} INFO - Started process (PID=12329) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-09-19T10:20:58.544-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-09-19T10:20:58.544-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:20:58.544-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-09-19T10:20:58.555-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-09-19T10:20:58.599-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:20:58.598-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:20:58.603-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:20:58.603-0500] {dag.py:4156} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-09-19T10:20:58.610-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2024-09-19T10:22:42.524-0500] {processor.py:186} INFO - Started process (PID=13078) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-09-19T10:22:42.526-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-09-19T10:22:42.526-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:42.526-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-09-19T10:22:42.536-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-09-19T10:22:42.578-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:42.578-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:22:42.583-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:42.583-0500] {dag.py:4156} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-09-19T10:22:42.590-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.067 seconds
+[2024-09-19T10:23:54.039-0500] {processor.py:186} INFO - Started process (PID=13429) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-09-19T10:23:54.041-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-09-19T10:23:54.042-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:54.041-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-09-19T10:23:54.051-0500] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-09-19T10:23:54.092-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:54.091-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:23:54.096-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:54.096-0500] {dag.py:4156} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-09-19T10:23:54.103-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.066 seconds

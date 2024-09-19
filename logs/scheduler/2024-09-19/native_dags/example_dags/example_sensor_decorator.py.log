@@ -1,0 +1,14 @@
+[2024-09-19T10:21:34.027-0500] {processor.py:186} INFO - Started process (PID=12484) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-19T10:21:34.028-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-19T10:21:34.028-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:34.028-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-19T10:21:34.043-0500] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-19T10:21:34.250-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:34.250-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:21:34.255-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:34.254-0500] {dag.py:4156} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-19T10:21:34.262-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.236 seconds
+[2024-09-19T10:23:14.231-0500] {processor.py:186} INFO - Started process (PID=13182) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-19T10:23:14.232-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-19T10:23:14.233-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:14.233-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-19T10:23:14.248-0500] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-19T10:23:14.477-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:14.477-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:23:14.482-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:14.482-0500] {dag.py:4156} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-19T10:23:14.489-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.260 seconds

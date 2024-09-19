@@ -1,0 +1,21 @@
+[2024-09-19T10:20:55.335-0500] {processor.py:186} INFO - Started process (PID=12320) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-19T10:20:55.336-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-19T10:20:55.337-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:20:55.337-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-19T10:20:55.353-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-19T10:20:55.395-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:20:55.395-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:20:55.399-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:20:55.399-0500] {dag.py:4156} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-19T10:20:55.407-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.073 seconds
+[2024-09-19T10:22:40.408-0500] {processor.py:186} INFO - Started process (PID=13070) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-19T10:22:40.410-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-19T10:22:40.411-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:40.411-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-19T10:22:40.426-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-19T10:22:40.467-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:40.466-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:22:40.471-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:40.471-0500] {dag.py:4156} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-19T10:22:40.479-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.073 seconds
+[2024-09-19T10:23:50.318-0500] {processor.py:186} INFO - Started process (PID=13325) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-19T10:23:50.320-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-19T10:23:50.320-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:50.320-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-19T10:23:50.335-0500] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-19T10:23:50.376-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:50.376-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:23:50.380-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:50.380-0500] {dag.py:4156} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-19T10:23:50.387-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.070 seconds

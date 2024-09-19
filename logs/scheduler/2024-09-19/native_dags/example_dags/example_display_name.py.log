@@ -1,0 +1,7 @@
+[2024-09-19T10:22:00.797-0500] {processor.py:186} INFO - Started process (PID=12850) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2024-09-19T10:22:00.798-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2024-09-19T10:22:00.798-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:00.798-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2024-09-19T10:22:00.814-0500] {processor.py:925} INFO - DAG(s) 'example_display_name' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2024-09-19T10:22:00.858-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:00.858-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:22:00.863-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:00.863-0500] {dag.py:4156} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2024-09-19T10:22:00.869-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.074 seconds

@@ -1,0 +1,22 @@
+[2024-09-19T10:20:42.291-0500] {processor.py:186} INFO - Started process (PID=12203) to work on /Users/binhpham/airflow/dags/etl_pipeline.py
+[2024-09-19T10:20:42.293-0500] {processor.py:914} INFO - Processing file /Users/binhpham/airflow/dags/etl_pipeline.py for tasks to queue
+[2024-09-19T10:20:42.293-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:20:42.293-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/airflow/dags/etl_pipeline.py
+[2024-09-19T10:20:42.446-0500] {processor.py:925} INFO - DAG(s) 'etl_pipeline' retrieved from /Users/binhpham/airflow/dags/etl_pipeline.py
+[2024-09-19T10:20:42.557-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:20:42.557-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:20:42.562-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:20:42.561-0500] {dag.py:3252} INFO - Creating ORM DAG for etl_pipeline
+[2024-09-19T10:20:42.565-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:20:42.565-0500] {dag.py:4156} INFO - Setting next_dagrun for etl_pipeline to 2024-09-18 00:00:00+00:00, run_after=2024-09-19 00:00:00+00:00
+[2024-09-19T10:20:42.572-0500] {processor.py:208} INFO - Processing /Users/binhpham/airflow/dags/etl_pipeline.py took 0.282 seconds
+[2024-09-19T10:22:27.581-0500] {processor.py:186} INFO - Started process (PID=12987) to work on /Users/binhpham/airflow/dags/etl_pipeline.py
+[2024-09-19T10:22:27.583-0500] {processor.py:914} INFO - Processing file /Users/binhpham/airflow/dags/etl_pipeline.py for tasks to queue
+[2024-09-19T10:22:27.583-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:27.583-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/airflow/dags/etl_pipeline.py
+[2024-09-19T10:22:27.769-0500] {processor.py:925} INFO - DAG(s) 'etl_pipeline' retrieved from /Users/binhpham/airflow/dags/etl_pipeline.py
+[2024-09-19T10:22:27.840-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:27.839-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:22:27.847-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:27.847-0500] {dag.py:4156} INFO - Setting next_dagrun for etl_pipeline to 2024-09-19 00:00:00+00:00, run_after=2024-09-20 00:00:00+00:00
+[2024-09-19T10:22:27.854-0500] {processor.py:208} INFO - Processing /Users/binhpham/airflow/dags/etl_pipeline.py took 0.275 seconds
+[2024-09-19T10:23:37.604-0500] {processor.py:186} INFO - Started process (PID=13271) to work on /Users/binhpham/airflow/dags/etl_pipeline.py
+[2024-09-19T10:23:37.605-0500] {processor.py:914} INFO - Processing file /Users/binhpham/airflow/dags/etl_pipeline.py for tasks to queue
+[2024-09-19T10:23:37.606-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:37.606-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/airflow/dags/etl_pipeline.py
+[2024-09-19T10:23:37.760-0500] {processor.py:925} INFO - DAG(s) 'etl_pipeline' retrieved from /Users/binhpham/airflow/dags/etl_pipeline.py
+[2024-09-19T10:23:37.834-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:37.834-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:23:37.842-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:37.842-0500] {dag.py:4156} INFO - Setting next_dagrun for etl_pipeline to 2024-09-19 00:00:00+00:00, run_after=2024-09-20 00:00:00+00:00
+[2024-09-19T10:23:37.850-0500] {processor.py:208} INFO - Processing /Users/binhpham/airflow/dags/etl_pipeline.py took 0.247 seconds

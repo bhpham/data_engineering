@@ -1,0 +1,14 @@
+[2024-09-19T10:21:45.386-0500] {processor.py:186} INFO - Started process (PID=12790) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-19T10:21:45.387-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-19T10:21:45.388-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:45.388-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-19T10:21:45.404-0500] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-19T10:21:45.447-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:45.447-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:21:45.454-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:45.454-0500] {dag.py:4156} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-18 00:00:00+00:00, run_after=2024-09-19 00:00:00+00:00
+[2024-09-19T10:21:45.461-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.077 seconds
+[2024-09-19T10:23:25.342-0500] {processor.py:186} INFO - Started process (PID=13220) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-19T10:23:25.344-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-19T10:23:25.344-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:25.344-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-19T10:23:25.360-0500] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-19T10:23:25.402-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:25.402-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:23:25.409-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:25.409-0500] {dag.py:4156} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-18 00:00:00+00:00, run_after=2024-09-19 00:00:00+00:00
+[2024-09-19T10:23:25.416-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.076 seconds

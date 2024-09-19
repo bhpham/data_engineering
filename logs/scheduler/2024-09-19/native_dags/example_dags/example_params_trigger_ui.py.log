@@ -1,0 +1,14 @@
+[2024-09-19T10:21:41.626-0500] {processor.py:186} INFO - Started process (PID=12687) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-19T10:21:41.627-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-09-19T10:21:41.628-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:41.628-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-19T10:21:41.644-0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-19T10:21:41.696-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:41.696-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:21:41.700-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:21:41.700-0500] {dag.py:4156} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-09-19T10:21:41.707-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.083 seconds
+[2024-09-19T10:23:22.253-0500] {processor.py:186} INFO - Started process (PID=13208) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-19T10:23:22.256-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-09-19T10:23:22.256-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:22.256-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-19T10:23:22.273-0500] {processor.py:925} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-19T10:23:22.326-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:22.326-0500] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-19T10:23:22.331-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:22.330-0500] {dag.py:4156} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-09-19T10:23:22.339-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.087 seconds

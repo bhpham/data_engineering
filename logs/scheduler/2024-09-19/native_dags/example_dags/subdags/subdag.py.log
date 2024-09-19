@@ -1,0 +1,15 @@
+[2024-09-19T10:20:44.434-0500] {processor.py:186} INFO - Started process (PID=12210) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-19T10:20:44.435-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-19T10:20:44.436-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:20:44.435-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-19T10:20:44.437-0500] {processor.py:927} WARNING - No viable dags retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-19T10:20:44.476-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2024-09-19T10:22:29.653-0500] {processor.py:186} INFO - Started process (PID=13039) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-19T10:22:29.655-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-19T10:22:29.656-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:22:29.656-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-19T10:22:29.657-0500] {processor.py:927} WARNING - No viable dags retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-19T10:22:29.695-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
+[2024-09-19T10:23:40.048-0500] {processor.py:186} INFO - Started process (PID=13284) to work on /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-19T10:23:40.049-0500] {processor.py:914} INFO - Processing file /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-19T10:23:40.050-0500] {logging_mixin.py:190} INFO - [2024-09-19T10:23:40.050-0500] {dagbag.py:587} INFO - Filling up the DagBag from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-19T10:23:40.051-0500] {processor.py:927} WARNING - No viable dags retrieved from /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-19T10:23:40.090-0500] {processor.py:208} INFO - Processing /Users/binhpham/Projects/dbt_project/venv/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.043 seconds
