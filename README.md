@@ -2,28 +2,22 @@
 Learn and practice Data Engineering Skills.
 
 Hands-On Example: ETL Pipeline with Apache Airflow and Pandas
+
 Step 1: Set Up Apache Airflow
 Install Apache Airflow
-bash
-Copy code
 # Using pip to install Airflow
 pip install apache-airflow
 
-
-Initialize the Database
-bash
-Copy code
+# 2/Initialize the Database
 airflow db init
 
 
-Start Airflow Web Server and Scheduler
-bash
-Copy code
+# 3/Start Airflow Web Server and Scheduler
 airflow webserver --port 8080
 airflow scheduler
 
 
-Access Airflow UI
+# 4/Access Airflow UI
 Open your browser and go to http://localhost:8080.
 Step 2: Create a DAG
 Create a New DAG File
@@ -64,19 +58,21 @@ with DAG('etl_pipeline', start_date=datetime(2023, 1, 1), schedule_interval='@da
 
 
 
-Step 3: Run the DAG
-Trigger the DAG
+# Step 3: Run the DAG
+# Trigger the DAG
 Go to the Airflow UI, find your etl_pipeline DAG, and click the "Trigger DAG" button.
 Monitor the Tasks
 You can see the status of each task in the Airflow UI. Make sure both tasks complete successfully.
-Step 4: Verify the Output
-Check the Output Files
+
+# Step 4: Verify the Output
+# Check the Output Files
 After the DAG runs, check the /tmp/ directory for the files:
 sales_data.csv (raw data)
 sales_data_processed.csv (processed data with total sales)
 Open the Processed File
 Open sales_data_processed.csv to verify that the total_sales column has been correctly calculated.
 Conclusion
+
 This hands-on example guides you through setting up an ETL pipeline using Apache Airflow and Pandas. You created a simple workflow that fetches, processes, and saves data, allowing you to understand DAGs, task management, and data manipulation with Pandas. Feel free to extend the project by adding more tasks, incorporating error handling, or visualizing the data!
 
 
